@@ -1,0 +1,19 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "descricao": "Voar",
+      "status": "Concluída"
+    },
+    {
+      "id": 3,
+      "descricao": "Lutar",
+      "status": "Pendente"
+    },
+    {
+      "id": 5,
+      "descricao": "5",
+      "status": "Pendente"
+    }
+  ]
+}
